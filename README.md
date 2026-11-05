@@ -65,6 +65,7 @@ A persistência dos dados é realizada por meio do JSON Server, que simula uma A
 ## 3. Protótipos e Wireframes
 
 Os wireframes do FindCar foram desenvolvidos durante a etapa de planejamento do projeto, com o objetivo de definir a estrutura das páginas, a disposição dos elementos e os principais fluxos de navegação.
+O desenvolvimento foi feito com o auxílio do Canvas, utilizado para planejar a estrutura visual das telas, a organização dos componentes e os fluxos de navegação. Esses protótipos serviram como referência para a implementação das interfaces utilizando HTML, CSS e JavaScript.
 
 A seguir, são apresentados os wireframes utilizados como referência para o desenvolvimento da interface da aplicação.
 
@@ -304,7 +305,24 @@ Os contratos de crédito bancário são registrados como créditos já concedido
 
 ---
 
-## 13. Autoria
+
+## 13. Uso de Inteligência Artificial
+
+Durante o desenvolvimento do FindCar, utilizei o ChatGPT como ferramenta de apoio ao aprendizado, ao planejamento e à implementação do projeto.
+
+A inteligência artificial foi utilizada para:
+
+- Auxiliar na interpretação dos requisitos e na organização das funcionalidades do sistema.
+- Revisar códigos HTML, CSS e JavaScript e auxiliar na identificação e correção de erros.
+- Esclarecer dúvidas sobre conceitos e funcionalidades das tecnologias utilizadas.
+- Sugerir e auxiliar na elaboração de trechos de código e melhorias na interface.
+- Apoiar a organização, a responsividade e a apresentação visual das páginas.
+- Auxiliar na revisão e organização da documentação do projeto.
+
+As sugestões foram analisadas e adaptadas às necessidades do FindCar, considerando os requisitos estabelecidos para a atividade e as decisões tomadas durante o desenvolvimento.
+
+---
+## 14. Autoria
 
 **Ana Luiza Tancredi Vidal**
 
@@ -314,7 +332,7 @@ Disciplina: Desenvolvimento de Interfaces Web
 
 ---
 
-## 14. Referências
+## 15. Referências
 
 - [Bootstrap](https://getbootstrap.com/)
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
