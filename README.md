@@ -68,7 +68,29 @@ Os wireframes do FindCar foram desenvolvidos durante a etapa de planejamento do 
 
 A seguir, são apresentados os wireframes utilizados como referência para o desenvolvimento da interface da aplicação.
 
-<!-- Insira aqui as imagens exportadas dos wireframes -->
+<img width="1440" height="917" alt="1" src="https://github.com/user-attachments/assets/a66084ec-6fa3-4223-aef9-92e44c79f39f" />
+
+<img width="1440" height="917" alt="2" src="https://github.com/user-attachments/assets/f33f0956-e502-43b7-86f3-e1bb5411bbde" />
+
+<img width="1440" height="917" alt="3" src="https://github.com/user-attachments/assets/7f49469c-20e6-41f6-8f39-bf9212ace978" />
+
+<img width="1440" height="917" alt="4" src="https://github.com/user-attachments/assets/a14c8d4b-9dff-477e-b16a-db90ae553980" />
+
+<img width="1440" height="917" alt="5" src="https://github.com/user-attachments/assets/486f153e-6bf4-4863-a4f0-93a0331e893e" />
+
+<img width="1440" height="917" alt="6" src="https://github.com/user-attachments/assets/a6fabf61-b0f2-4088-a8f1-1c1443036510" />
+
+<img width="1440" height="917" alt="7" src="https://github.com/user-attachments/assets/9ab2e86d-05a7-4263-ad7e-9582724a7a79" />
+
+<img width="1440" height="917" alt="8" src="https://github.com/user-attachments/assets/bfc37ae6-4902-4986-8381-47b5f1547c9a" />
+
+<img width="1440" height="917" alt="9" src="https://github.com/user-attachments/assets/2a5e96aa-6a28-4c20-8b16-5d028b1f1653" />
+
+<img width="1440" height="917" alt="10" src="https://github.com/user-attachments/assets/385f89e5-fbbd-4cc7-8e2b-33801ad10f6e" />
+
+<img width="1440" height="917" alt="11" src="https://github.com/user-attachments/assets/c39c54eb-6540-430b-94bc-e68edc492f7c" />
+
+<img width="1440" height="917" alt="12" src="https://github.com/user-attachments/assets/525bf868-2c91-4020-a416-2b066ce8b3a4" />
 
 ---
 
